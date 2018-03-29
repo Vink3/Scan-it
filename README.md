@@ -20,7 +20,7 @@ Scan-It was writting in Java on Android Studio
 
 ![screenshot_20180329-145938](https://user-images.githubusercontent.com/16401460/38090401-b7a8baa6-3362-11e8-8c0c-c9c2710aba79.png)
 
-Download and install the apk file
+Download and install [the apk file](https://github.com/Vink3/Scan-it/files/1860732/scan-it.zip)
 
 ### Author
 
